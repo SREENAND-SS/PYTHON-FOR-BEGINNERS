@@ -1,3 +1,5 @@
+# python program to add the marks details of a student in a text file
+
 def result():
     f=open('mark.txt','w+')
     c=0
